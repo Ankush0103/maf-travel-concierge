@@ -1,0 +1,5 @@
+agent-framework
+agent-framework-openai
+fastapi
+uvicorn[standard]
+pydantic
